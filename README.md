@@ -1,0 +1,2 @@
+# GaleriDarel
+Data Pertanggungjawaban 
